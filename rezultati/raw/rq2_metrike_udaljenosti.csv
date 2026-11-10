@@ -1,0 +1,4 @@
+metrika_kod,metrika_naziv,broj_chunkova,prosecna_norma_vektora,vreme_embedovanja_s,vreme_gradnje_indeksa_ms,hit_rate@1,hit_rate@3,hit_rate@5,MRR,latencija_ms
+cosine,Kosinusna,297,1.0,108.7,204.4,0.8378,0.9189,0.9459,0.8851,98.94
+l2,Euklidska L2,297,1.0,108.7,161.2,0.8378,0.9189,0.9459,0.8851,100.57
+ip,Skalarni proizvod,297,1.0,108.7,184.0,0.8378,0.9189,0.9459,0.8851,100.78
